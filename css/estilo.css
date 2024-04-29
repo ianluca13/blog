@@ -1,4 +1,5 @@
-body{
+body
+{
     color:#333;
     text-align:courier;
     font-family:curiel ;
@@ -6,16 +7,22 @@ body{
     margin:0;
     padding:0
 }
-#container{
+
+#container
+{
     width:70%;
     padding:0;
     text-align:left;
     border:1px solid #ddd;
     margin:0 auto
 }
-#container h1{
+
+#container h1
+{
     font-size:20px
 }
-#post{
+
+#post
+{
     padding:1em
 }

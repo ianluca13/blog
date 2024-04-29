@@ -2,18 +2,13 @@ body
 {
     color:#333;
     text-align:center;
-<<<<<<< HEAD
-    font-family:couriel;
-=======
-    font-family:Arial;
->>>>>>> cabecera2
+    font-family:couries;
     font-size:16px;
     margin:0;
     padding:0;
 }
 
-<<<<<<< HEAD
-=======
+
 #cabecera
 {
     background:#33a;
@@ -31,7 +26,7 @@ body
     font-size:.8em;
 }
 
->>>>>>> cabecera2
+
 #container
 {
     width:70%;

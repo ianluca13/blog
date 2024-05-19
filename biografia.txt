@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+la Biografia de Molten Whit 
+
+que en su momento era una persona con buen argumento 
+
+que ahora va aprender git 
+
+de nuevo agrego algo nuvo 
+=======
+hola esta es mi biografia
+
+le voy a ir agregando nuevos cambios a la biografia para probar el git 
+
+ahora hago nuevos cambios 
+
+Maniana vamos al parque 
+
+
+hago un checkout para probar esto  no deberia de guardarse
+>>>>>>> fb788fb2dc734e67d91f9e9b893ff7fee2e4219a

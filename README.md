@@ -1,2 +1,0 @@
-# blog
-Prueba de blog 
